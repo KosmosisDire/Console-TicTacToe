@@ -8,8 +8,9 @@ This is a very simple but reasonably feature rish tic tac toe game that runs in 
 
 Game Modes:
 - Human vs. Human
-- Humnan vs. Bot
+- Human vs. Bot
 - Bot vs. Bot
+
 The AI is almost too good, but also has an element of randomness to it to make sure it isn't predictable.
 
 Board Sizes:
